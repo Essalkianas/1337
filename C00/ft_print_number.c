@@ -6,6 +6,3 @@ void ft_print_numbers(void){
         k++;
     }
 }
-int main(){
-    return 0;
-}
